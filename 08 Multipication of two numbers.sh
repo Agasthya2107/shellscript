@@ -6,7 +6,7 @@ Timestamp =$(Date)
 echo "Time Stamp for entering the user inputs: $Timestamp"
 
 echo "Enter the Number1: "
-read$Number1
+read $Number1
 echo "Enter the Number2: "
 read $Number2
 
