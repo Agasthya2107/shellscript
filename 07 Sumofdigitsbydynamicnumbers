@@ -1,0 +1,9 @@
+#!/bin/bash
+Number1=$1
+Number2=$2
+
+Timestamp=$(Date)
+
+sum=$((Number1+Number2))
+echo "Numbers Entered at: $Timestamp"
+echo "Sum of Two numbers : $sum"
