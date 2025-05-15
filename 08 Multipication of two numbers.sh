@@ -10,5 +10,5 @@ read $Number1
 echo "Enter the Number2::"
 read $Number2
 
-Mul=$((Number1*Number2))
+Mul=$((Number1+Number2))
 echo "Multipi :: $Mul"
